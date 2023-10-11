@@ -1,2 +1,5 @@
 ﻿Zadanie 2.4
 	Odpowiedź: A 202
+
+Zadanie 2.5
+	Odpowiedź: D 12
