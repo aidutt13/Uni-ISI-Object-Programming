@@ -3,3 +3,6 @@
 
 Zadanie 2.5
 	Odpowiedź: D 12
+
+Zadanie 2.6
+	x = 2; y = 2
