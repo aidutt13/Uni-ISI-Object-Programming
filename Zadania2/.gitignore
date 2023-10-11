@@ -1,0 +1,8 @@
+﻿bin
+obj
+Properties
+App.config
+*.sln
+*.csproj
+.vs
+Program.cs
